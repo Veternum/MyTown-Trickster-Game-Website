@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Game Page</title>
+	<link rel="stylesheet" href="/css/signuppage.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link
+		href="https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;700&family=EB+Garamond:wght@500;800&family=Inknut+Antiqua:wght@600;900&display=swap"
+		rel="stylesheet">
+</head>
+
+<body>
+	<div class="container">
+		<img class="background" src="/assets/Background_AG1.png">
+
+		<div class="header">SIGNUP</div>
+		<div class="border"></div>
+		<form class="content-container" id="form">
+			<div class="email-container">
+				<label for="femail" class="email-label">E-Mail</label>
+				<input type="text" name="femail" id="femail" class="femail">
+			</div>
+
+			<div class="password-container">
+				<label for="fpassword" class="password-label">Password</label>
+				<input type="password" name="fpassword" id="fpassword" class="fpassword">
+			</div>
+
+			<div class="confirm-password-container">
+				<label for="fconfirm-password" class="confirm-password-label">E-Confirm Password</label>
+				<input type="password" name="fconfirm-password" id="fconfirm-password" class="fconfirm-password">
+			</div>
+
+			<div class="age-container">
+				<label for="fage" class="age-label">Age</label>
+				<input type="number" name="fage" id="fage" class="fage">
+			</div>
+
+			<div class="gender-container">
+				<label for="fgender" class="gender-label">Gender</label>
+				<select name="fgender" id="fgender" class="fgender">
+					<option value="default"></option>
+					<option value="male">Male</option>
+					<option value="female">Female</option>
+				</select>
+			</div>
+
+			<div class="tnc-container">
+				<input type="checkbox" name="ftnc" id="ftnc" class="ftnc">
+				<label for="ftnc" class="tnc-label">I read and agree to Terms & Condition</label>
+			</div>
+
+			<div class="sign-up-container">
+				<input class="fsubmit" id="fsubmit" type="submit" value="Sign Up">
+			</div>
+		</form>
+	</div>
+	</div>
+	<div class="navbar" id="navbar">
+		<div class="HOME"><a class="nav-a" id="homebtn" href="mainpage.html">HOME</a></div>
+	</div>
+	<footer class="footer">
+		<img class="footer-border" src="/assets/FooterBorder.svg" />
+		<div class="overlap-footer">
+			<div class="footer-1">
+				<img class="logo" src="/assets/Logo_White.png" />
+				<div class="follow">Follow MyTrickStEr</div>
+				<img class="facebook" src="/assets/facebook.svg" />
+				<img class="instagram" src="/assets/instagram.svg" />
+				<img class="youtube" src="/assets/youtube.svg" />
+			</div>
+			<div class="footer-2">
+				<div class="privacy">Privacy Policy</div>
+				<img class="pipe" src="/assets/Pipe.svg" />
+				<div class="about">About This Site</div>
+				<img class="pipe-2" src="/assets/Pipe.svg" />
+				<div class="contact">Contact Us</div>
+			</div>
+		</div>
+	</footer>
+	<script src="/javascript/signuppage.js"></script>
+</body>
+
+</html>

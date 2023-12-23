@@ -1,0 +1,28 @@
+Identitas:
+Nama: Hans Rhesa Andersen
+NIM: 2502032346
+
+Link Canva:
+https://www.figma.com/file/8nargME0MmbMyEpFPqaMLR/Proyek-HCI?type=design&node-id=0%3A1&mode=design&t=DYnEznhEMzlWQVHz-1
+
+Referensi (Ide & Asset):
+Ide:
+https://genshin.hoyoverse.com/en/
+https://hsr.hoyoverse.com/en-us/
+https://re1999.bluepoch.com/
+https://re1999.bluepoch.com/en/home/
+https://genshin.hoyoverse.com/en/home
+https://hsr.hoyoverse.com/en-us/home
+https://granbluefantasy.jp/en/index.php
+https://www.cygames.co.jp/en/
+https://bluearchive.nexon.com/home
+https://rising.granbluefantasy.jp/en/
+https://relink.granbluefantasy.jp/en/
+
+Asset:
+Logo: https://app.logo.com/
+Arknights: https://aceship.github.io/AN-EN-Tags/akgallery.html
+Blue Archive: Datamined-Galleries
+Artery Gear: Datamined-Galleries
+Internet: Internet
+SVGs: Canva

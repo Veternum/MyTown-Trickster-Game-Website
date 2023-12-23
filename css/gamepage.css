@@ -1,0 +1,292 @@
+.container {
+    position: absolute;
+    width: 100%;
+    height: 824px;
+    top: 0;
+    left: 0;
+}
+
+.background {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 824px;
+    opacity: 20%;
+    object-fit: cover;
+}
+
+.content-container {
+    position: absolute;
+    width: 100%;
+    height: 824px;
+    top: 0;
+    left: 0;
+    background-color: #5fbdff66;
+}
+
+.header {
+    position: absolute;
+    width: 294px;
+    height: 84px;
+    top: 64px;
+    left: 573px;
+    color: #5fbdff;
+    text-decoration: underline;
+    text-align: center;
+
+    font-family: 'Crimson Text', serif;
+    font-weight: 700;
+    font-size: 56px;
+    letter-spacing: 5.6px;
+    line-height: 56px;
+}
+
+.gallery-1{
+    position: absolute;
+    width: 356px;
+    height: 200px;
+    top: 148px;
+    left: 77px;
+}
+
+.gallery-2{
+    position: absolute;
+    width: 356px;
+    height: 200px;
+    top: 148px;
+    left: 542px;
+}
+
+.gallery-3{
+    position: absolute;
+    width: 356px;
+    height: 200px;
+    top: 148px;
+    left: 1008px;
+}
+
+.gallery-4{
+    position: absolute;
+    width: 356px;
+    height: 200px;
+    top: 396px;
+    left: 77px;
+}
+
+.gallery-5{
+    position: absolute;
+    width: 356px;
+    height: 200px;
+    top: 396px;
+    left: 542px;
+}
+
+.gallery-6{
+    position: absolute;
+    width: 356px;
+    height: 200px;
+    top: 396px;
+    left: 1008px;
+}
+
+.navbar{
+    position: fixed;
+    width: 100%;
+    height: 80px;
+    top: 0;
+    left: 0;
+    background-image: url("/assets/NavBar1.svg");
+    background-size: 100% 100%;
+}
+
+.HOME{
+    position: absolute;
+    width: 64px;
+    height: 34px;
+    top: 24px;
+    left: 1299px;
+}
+
+.nav-a{
+    width: 64px;
+    height: 34px;
+    top: 5px;
+    left: 0;
+    color: #000000;
+    position: absolute;
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+
+    font-family: "Inknut Antiqua", Helvetica;
+    font-weight: 900;
+    font-size: 16px;
+    letter-spacing: 0px;
+    line-height: 100%;
+    font-style: normal;
+}
+
+.STORY{
+    position: absolute;
+    width: 70px;
+    height: 34px;
+    top: 23px;
+    left: 1063px;
+}
+
+.footer {
+    position: absolute;
+    width: 100%;
+    height: 197px;
+    top: 627px;
+    left: 0;
+    background-color: transparent;
+}
+
+.footer-border {
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    top: -2px;
+    left: 0;
+}
+
+.overlap-footer {
+    position: absolute;
+    width: 100%;
+    height: 197px;
+    top: 0;
+    left: 0;
+    background-color: #000000;
+}
+
+.footer-1 {
+    position: absolute;
+    width: 303px;
+    height: 94px;
+    top: 50px;
+    left: 77px;
+}
+
+.logo {
+    position: absolute;
+    width: 301px;
+    height: 49px;
+    top: 0;
+    left: 0;
+}
+
+.follow {
+    position: absolute;
+    width: 91px;
+    height: 15px;
+    top: 76px;
+    left: 0;
+    color: #ffffff;
+    text-align: center;
+    font-family: "Inknut Antiqua", Helvetica;
+    font-weight: 600;
+    font-size: 8px;
+    letter-spacing: 0px;
+    line-height: 100%;
+    font-style: normal;
+}
+
+.facebook {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 69px;
+    left: 99px;
+}
+
+.instagram {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 69px;
+    left: 132px;
+}
+
+.youtube {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 69px;
+    left: 165px;
+}
+
+.footer-2 {
+    position: absolute;
+    width: 212px;
+    height: 70px;
+    top: 69px;
+    left: 1157px;
+}
+
+.privacy {
+    position: absolute;
+    width: 66px;
+    height: 15px;
+    top: 55px;
+    left: 140px;
+    color: #ffffff;
+    text-align: center;
+    font-family: "Inknut Antiqua", Helvetica;
+    font-weight: 600;
+    font-size: 8px;
+    letter-spacing: 0px;
+    line-height: 100%;
+    font-style: normal;
+}
+
+.pipe {
+    position: absolute;
+    width: 1px;
+    height: 10px;
+    top: 55px;
+    left: 135px;
+    object-fit: cover;
+}
+
+.about {
+    position: absolute;
+    width: 70px;
+    height: 15px;
+    top: 55px;
+    left: 60px;
+    color: #ffffff;
+    text-align: center;
+    font-family: "Inknut Antiqua", Helvetica;
+    font-weight: 600;
+    font-size: 8px;
+    letter-spacing: 0px;
+    line-height: 100%;
+    font-style: normal;
+}
+
+.pipe-2 {
+    position: absolute;
+    width: 1px;
+    height: 10px;
+    top: 55px;
+    left: 54px;
+    object-fit: cover;
+}
+
+.contact {
+    position: absolute;
+    width: 50px;
+    height: 15px;
+    top: 55px;
+    left: 0;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Inknut Antiqua", Helvetica;
+    font-weight: 600;
+    font-size: 8px;
+    letter-spacing: 0px;
+    line-height: 100%;
+    font-style: normal;
+}

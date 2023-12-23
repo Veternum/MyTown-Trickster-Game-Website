@@ -1,0 +1,467 @@
+.container {
+    position: absolute;
+    width: 100%;
+    height: 824px;
+    top: 0;
+    left: 0;
+}
+
+.background {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 824px;
+    opacity: 20%;
+    object-fit: cover;
+}
+
+.content-container {
+    position: absolute;
+    width: 100%;
+    height: 824px;
+    top: 0;
+    left: 0;
+    background-color: #5fbdff66;
+}
+
+.header{
+    position: absolute;
+    width: 294px;
+    height: 84px;
+    top: 79px;
+    left: 573px;
+    font-family: "Crimson Text", Helvetica;
+    font-weight: 700;
+    color: #5fbdff;
+    font-size: 56px;
+    text-align: center;
+    letter-spacing: 5.6px;
+    line-height: 56px;
+    text-decoration: underline;
+}
+
+.border{
+    position: absolute;
+    width: 329px;
+    height: 392px;
+    top: 164px;
+    left: 554px;
+    border-radius: 6px;
+    border: 2px solid;
+    border-color: #000000;
+}
+
+.email-container{
+    position: absolute;
+    width: 277px;
+    height: 49px;
+    top: 190px;
+    left: 583px;
+}
+
+.email-label{
+    position: absolute;
+    width: 60px;
+    height: 15px;
+    top: 0;
+    left: 11px;
+    font-family: "Crimson Text", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.femail{
+    position: absolute;
+    width: 275px;
+    height: 30px;
+    top: 20px;
+    left: -1px;
+
+    background-color: transparent;
+    border-radius: 4px;
+}
+
+.password-container{
+    position: absolute;
+    width: 278px;
+    height: 48px;
+    top: 252px;
+    left: 583px;
+}
+
+.password-label{
+    position: absolute;
+    width: 89px;
+    height: 15px;
+    top: 0;
+    left: 9px;
+    font-family: "Crimson Text", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.fpassword{
+    position: absolute;
+    width: 275px;
+    height: 30px;
+    top: 20px;
+    left: -1px;
+
+    background-color: transparent;
+    border-radius: 4px;
+}
+
+.confirm-password-container{
+    position: absolute;
+    width: 278px;
+    height: 49px;
+    top: 312px;
+    left: 583px;
+}
+
+.confirm-password-label{
+    position: absolute;
+    width: 116px;
+    height: 15px;
+    top: 0;
+    left: 11px;
+    font-family: "Crimson Text", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.fconfirm-password{
+    position: absolute;
+    width: 276px;
+    height: 30px;
+    top: 20px;
+    left: -1px;
+
+    background-color: transparent;
+    border-radius: 4px;
+}
+
+.age-container{
+    position: absolute;
+    width: 130px;
+    height: 48px;
+    top: 374px;
+    left: 583px;
+}
+
+.age-label{
+    position: absolute;
+    width: 60px;
+    height: 15px;
+    top: 0;
+    left: 11px;
+    font-family: "Crimson Text", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.fage{
+    position: absolute;
+    width: 128px;
+    height: 30px;
+    top: 19px;
+    left: -1px;
+    background-color: transparent;
+    border-radius: 4px;
+}
+
+.gender-container{
+    position: absolute;
+    width: 114px;
+    height: 48px;
+    top: 374px;
+    left: 747px;
+}
+
+.gender-label{
+    position: absolute;
+    width: 60px;
+    height: 15px;
+    top: 0;
+    left: 11px;
+    font-family: "Crimson Text", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.fgender{
+    position: absolute;
+    width: 121px;
+    height: 33px;
+    top: 19px;
+    left: -1px;
+
+    background-color: transparent;
+    border-radius: 4px;
+}
+
+.tnc-container{
+    position: absolute;
+    width: 199px;
+    height: 12px;
+    top: 454px;
+    left: 621px;
+}
+
+.tnc-label{
+    position: absolute;
+    width: 87px;
+    height: 11px;
+    top: 3px;
+    left: 22px;
+    font-family: "Crimson Text", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.sign-up-container{
+    position: absolute;
+    width: 152px;
+    height: 40px;
+    top: 494px;
+    left: 645px;
+}
+
+.fsubmit{
+    position: relative;
+    width: 150px;
+    height: 40px;
+    background-color: transparent;
+    border-radius: 4px;
+    border: 2px solid;
+    border-color: #000000;
+
+    font-family: "Crimson Text", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.navbar{
+    position: fixed;
+    width: 100%;
+    height: 80px;
+    top: 0;
+    left: 0;
+    background-image: url("/assets/NavBar1.svg");
+    background-size: 100% 100%;
+}
+
+.HOME{
+    position: absolute;
+    width: 64px;
+    height: 34px;
+    top: 24px;
+    left: 1299px;
+}
+
+.nav-a{
+    width: 64px;
+    height: 34px;
+    top: 5px;
+    left: 0;
+    color: #000000;
+    position: absolute;
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+
+    font-family: "Inknut Antiqua", Helvetica;
+    font-weight: 900;
+    font-size: 16px;
+    letter-spacing: 0px;
+    line-height: 100%;
+    font-style: normal;
+}
+
+.STORY{
+    position: absolute;
+    width: 70px;
+    height: 34px;
+    top: 23px;
+    left: 1063px;
+}
+
+.footer {
+    position: absolute;
+    width: 100%;
+    height: 197px;
+    top: 627px;
+    left: 0;
+    background-color: transparent;
+}
+
+.footer-border {
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    top: -2px;
+    left: 0;
+}
+
+.overlap-footer {
+    position: absolute;
+    width: 100%;
+    height: 197px;
+    top: 0;
+    left: 0;
+    background-color: #000000;
+}
+
+.footer-1 {
+    position: absolute;
+    width: 303px;
+    height: 94px;
+    top: 50px;
+    left: 77px;
+}
+
+.logo {
+    position: absolute;
+    width: 301px;
+    height: 49px;
+    top: 0;
+    left: 0;
+}
+
+.follow {
+    position: absolute;
+    width: 91px;
+    height: 15px;
+    top: 76px;
+    left: 0;
+    color: #ffffff;
+    text-align: center;
+    font-family: "Inknut Antiqua", Helvetica;
+    font-weight: 600;
+    font-size: 8px;
+    letter-spacing: 0px;
+    line-height: 100%;
+    font-style: normal;
+}
+
+.facebook {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 69px;
+    left: 99px;
+}
+
+.instagram {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 69px;
+    left: 132px;
+}
+
+.youtube {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 69px;
+    left: 165px;
+}
+
+.footer-2 {
+    position: absolute;
+    width: 212px;
+    height: 70px;
+    top: 69px;
+    left: 1157px;
+}
+
+.privacy {
+    position: absolute;
+    width: 66px;
+    height: 15px;
+    top: 55px;
+    left: 140px;
+    color: #ffffff;
+    text-align: center;
+    font-family: "Inknut Antiqua", Helvetica;
+    font-weight: 600;
+    font-size: 8px;
+    letter-spacing: 0px;
+    line-height: 100%;
+    font-style: normal;
+}
+
+.pipe {
+    position: absolute;
+    width: 1px;
+    height: 10px;
+    top: 55px;
+    left: 135px;
+    object-fit: cover;
+}
+
+.about {
+    position: absolute;
+    width: 70px;
+    height: 15px;
+    top: 55px;
+    left: 60px;
+    color: #ffffff;
+    text-align: center;
+    font-family: "Inknut Antiqua", Helvetica;
+    font-weight: 600;
+    font-size: 8px;
+    letter-spacing: 0px;
+    line-height: 100%;
+    font-style: normal;
+}
+
+.pipe-2 {
+    position: absolute;
+    width: 1px;
+    height: 10px;
+    top: 55px;
+    left: 54px;
+    object-fit: cover;
+}
+
+.contact {
+    position: absolute;
+    width: 50px;
+    height: 15px;
+    top: 55px;
+    left: 0;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Inknut Antiqua", Helvetica;
+    font-weight: 600;
+    font-size: 8px;
+    letter-spacing: 0px;
+    line-height: 100%;
+    font-style: normal;
+}

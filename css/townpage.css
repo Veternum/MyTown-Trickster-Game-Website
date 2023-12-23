@@ -1,0 +1,345 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.container {
+    position: absolute;
+    width: 100%;
+    height: 1605px;
+    top: 0;
+    left: 0;
+}
+
+.background {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 1605px;
+    opacity: 20%;
+    object-fit: cover;
+}
+
+.content-container {
+    position: absolute;
+    width: 100%;
+    height: 1605px;
+    top: 0;
+    left: 0;
+    background-color: #5fbdff66;
+}
+
+.header{
+    width: 294px;
+    height: 84px;
+    top: 79px;
+    left: 573px;
+    font-family: "Crimson Text", Helvetica;
+    font-weight: 700;
+    color: #5fbdff;
+    font-size: 56px;
+    letter-spacing: 5.6px;
+    line-height: 56px;
+    text-decoration: underline;
+    position: absolute;
+    text-align: center;
+}
+
+.town-narration{
+    width: 600px;
+    height: 172px;
+    top: 49px;
+    left: 781px;
+    font-family: "EB Garamond", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 28px;
+    position: absolute;
+    text-align: center;
+}
+
+.town-narration-2{
+    width: 600px;
+    height: 196px;
+    top: 68px;
+    left: -42px;
+    font-family: "EB Garamond", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 28px;
+    position: absolute;
+    text-align: center;
+}
+
+.town-header{
+    font-weight: 800;
+    font-family: 'EB Garamond', serif;
+    font-style: normal;
+    letter-spacing: 0px;
+    line-height: 100%;
+    font-size: 28px;
+}
+
+.town-1{
+    position: absolute;
+    width: 1343px;
+    height: 405px;
+    top: 193px;
+    left: 0;
+}
+
+.town1-img{
+    position: absolute;
+    width: 720px;
+    height: 405px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
+
+.town-2{
+    position: absolute;
+    width: 1343px;
+    height: 405px;
+    top: 598px;
+    left: 99px;
+}
+
+.town2-img{
+    position: absolute;
+    width: 720px;
+    height: 405px;
+    top: 0;
+    left: 621px;
+    object-fit: cover;
+}
+
+.town-3{
+    position: absolute;
+    width: 1343px;
+    height: 405px;
+    top: 1003px;
+    left: 0;
+}
+
+.town3-img{
+    position: absolute;
+    width: 720px;
+    height: 405px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+}
+
+.navbar{
+    position: fixed;
+    width: 100%;
+    height: 80px;
+    top: 0;
+    left: 0;
+    background-image: url("/assets/NavBar1.svg");
+    background-size: 100% 100%;
+}
+
+.HOME{
+    position: absolute;
+    width: 64px;
+    height: 34px;
+    top: 24px;
+    left: 1299px;
+}
+
+.nav-a{
+    width: 64px;
+    height: 34px;
+    top: 5px;
+    left: 0;
+    color: #000000;
+    position: absolute;
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+
+    font-family: "Inknut Antiqua", Helvetica;
+    font-weight: 900;
+    font-size: 16px;
+    letter-spacing: 0px;
+    line-height: 100%;
+    font-style: normal;
+}
+
+.STORY{
+    position: absolute;
+    width: 70px;
+    height: 34px;
+    top: 23px;
+    left: 1063px;
+}
+
+.footer {
+    position: absolute;
+    width: 100%;
+    height: 197px;
+    top: 1408px;
+    left: 0;
+    background-color: transparent;
+}
+
+.footer-border {
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    top: -2px;
+    left: 0;
+}
+
+.overlap-footer {
+    position: absolute;
+    width: 100%;
+    height: 197px;
+    top: 0;
+    left: 0;
+    background-color: #000000;
+}
+
+.footer-1 {
+    position: absolute;
+    width: 303px;
+    height: 94px;
+    top: 50px;
+    left: 77px;
+}
+
+.logo {
+    position: absolute;
+    width: 301px;
+    height: 49px;
+    top: 0;
+    left: 0;
+}
+
+.follow {
+    position: absolute;
+    width: 91px;
+    height: 15px;
+    top: 76px;
+    left: 0;
+    color: #ffffff;
+    text-align: center;
+    font-family: "Inknut Antiqua", Helvetica;
+    font-weight: 600;
+    font-size: 8px;
+    letter-spacing: 0px;
+    line-height: 100%;
+    font-style: normal;
+}
+
+.facebook {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 69px;
+    left: 99px;
+}
+
+.instagram {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 69px;
+    left: 132px;
+}
+
+.youtube {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 69px;
+    left: 165px;
+}
+
+.footer-2 {
+    position: absolute;
+    width: 212px;
+    height: 70px;
+    top: 69px;
+    left: 1157px;
+}
+
+.up {
+    position: absolute;
+    width: 90px;
+    height: 30px;
+    top: 0;
+    left: 116px;
+}
+
+.privacy {
+    position: absolute;
+    width: 66px;
+    height: 15px;
+    top: 55px;
+    left: 140px;
+    color: #ffffff;
+    text-align: center;
+    font-family: "Inknut Antiqua", Helvetica;
+    font-weight: 600;
+    font-size: 8px;
+    letter-spacing: 0px;
+    line-height: 100%;
+    font-style: normal;
+}
+
+.pipe {
+    position: absolute;
+    width: 1px;
+    height: 10px;
+    top: 55px;
+    left: 135px;
+    object-fit: cover;
+}
+
+.about {
+    position: absolute;
+    width: 70px;
+    height: 15px;
+    top: 55px;
+    left: 60px;
+    color: #ffffff;
+    text-align: center;
+    font-family: "Inknut Antiqua", Helvetica;
+    font-weight: 600;
+    font-size: 8px;
+    letter-spacing: 0px;
+    line-height: 100%;
+    font-style: normal;
+}
+
+.pipe-2 {
+    position: absolute;
+    width: 1px;
+    height: 10px;
+    top: 55px;
+    left: 54px;
+    object-fit: cover;
+}
+
+.contact {
+    position: absolute;
+    width: 50px;
+    height: 15px;
+    top: 55px;
+    left: 0;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Inknut Antiqua", Helvetica;
+    font-weight: 600;
+    font-size: 8px;
+    letter-spacing: 0px;
+    line-height: 100%;
+    font-style: normal;
+}
