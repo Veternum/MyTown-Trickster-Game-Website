@@ -4,6 +4,10 @@
 
 This repository contains the files and resources for the **MyTown Trickster Game Website** project. This project was developed as part of a university assignment, where I was tasked with creating a multi-page game website for a fictional game company. The website is fully responsive and includes interactive elements, custom form validation, and a polished UI/UX design created in Figma.
 
+## Figma Design
+
+https://www.figma.com/design/8nargME0MmbMyEpFPqaMLR/Game-Web-Page-UI%2FUX-Design?node-id=0-1&t=Wox47v4eaY6G4xYr-1
+
 ## Project Structure
 
 The repository is organized as follows:
@@ -69,13 +73,13 @@ The repository is organized as follows:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/game-website-mytown-trickster.git
+   git clone https://github.com/Veternum/MyTown-Trickster-Game-Website.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd game-website-mytown-trickster
+   cd MyTown-Trickster-Game-Website
    ```
 
 3. Open any HTML file within the `html/` directory in your web browser to view the corresponding page:
@@ -87,5 +91,12 @@ The repository is organized as follows:
 4. To view or edit the design, open the Figma file located in the root directory using Figma.
 
 ## Screenshots
+
+![image](https://github.com/user-attachments/assets/66a4f84e-26e7-434f-a95d-dec848824719)
+![image](https://github.com/user-attachments/assets/94c12371-8233-4897-935f-2fc922701af7)
+![image](https://github.com/user-attachments/assets/c551d596-796b-4044-b5ca-bf5cda63fa96)
+![image](https://github.com/user-attachments/assets/fc2bccf2-920e-4642-b700-f4adaf654833)
+![image](https://github.com/user-attachments/assets/e4554ecf-f391-4e7d-b2c9-401970a641bf)
+![image](https://github.com/user-attachments/assets/233055c3-0531-4759-a87a-4bd0ad598633)
 
 Thank you for visiting my project! If you find it useful or interesting, please consider starring the repository.
