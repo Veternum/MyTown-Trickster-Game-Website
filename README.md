@@ -93,10 +93,13 @@ The repository is organized as follows:
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/66a4f84e-26e7-434f-a95d-dec848824719)
+
 ![image](https://github.com/user-attachments/assets/94c12371-8233-4897-935f-2fc922701af7)
+
 ![image](https://github.com/user-attachments/assets/c551d596-796b-4044-b5ca-bf5cda63fa96)
+
 ![image](https://github.com/user-attachments/assets/fc2bccf2-920e-4642-b700-f4adaf654833)
-![image](https://github.com/user-attachments/assets/e4554ecf-f391-4e7d-b2c9-401970a641bf)
+
 ![image](https://github.com/user-attachments/assets/233055c3-0531-4759-a87a-4bd0ad598633)
 
 Thank you for visiting my project! If you find it useful or interesting, please consider starring the repository.
