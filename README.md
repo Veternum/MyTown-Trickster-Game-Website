@@ -2,7 +2,9 @@
 
 ## Overview
 
-This repository contains the files and resources for the **MyTown Trickster Game Website** project. This project was developed as part of a university assignment, where I was tasked with creating a multi-page game website for a fictional game company. The website is responsive and includes interactive elements, custom form validation, and a polished UI/UX design created in Figma.
+This repository contains the files and resources for the **MyTown Trickster Game Website** project. The website is responsive and includes interactive elements, custom form validation, and a polished UI/UX design created in Figma.
+
+This project was originally developed as part of a university assignment, where I was tasked with creating a multi-page game website for a fictional game company. However, I've decided to share it on GitHub to showcase my skills in UI/UX design and Front End Development. This project also serves as part of my portfolio for joining the Apple Developer Academy Indonesia.
 
 ## Figma Design
 
